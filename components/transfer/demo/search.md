@@ -18,7 +18,7 @@ import { Transfer } from 'antd';
 
 class App extends React.Component {
   state = {
-    mockData: [],
+    mockData: [1],
     targetKeys: [],
   };
 
